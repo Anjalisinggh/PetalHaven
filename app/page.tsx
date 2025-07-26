@@ -33,7 +33,7 @@ export default function Dashboard() {
       <div className="container mx-auto px-4 py-8">
         {/* Welcome Section */}
         <div className="mb-8">
-          <h2 className="text-3xl font-bold text-gray-800 mb-2">Welcome back, Sarah! 🌸</h2>
+          <h2 className="text-3xl font-bold text-gray-800 mb-2">Welcome Buddy</h2>
           <p className="text-gray-600">{"Let's nurture your wellness journey today"}</p>
         </div>
 
